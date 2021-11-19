@@ -12,7 +12,7 @@
 
  - [Bootstrap](https://getbootstrap.com/)  
 
-# <center> ¿Qué es Bootstrap?
+# <center> ¿Qué es Bootstrap?       
 
 >Bootstrap es un framework front-end utilizado para desarrollar aplicaciones web y sitios mobile first, o sea, con un layout que se adapta a la pantalla del dispositivo utilizado por el usuario.
 ---
